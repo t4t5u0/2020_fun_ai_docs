@@ -1,7 +1,7 @@
 /dataset/*
 /param/*
-.gitignore
-
+#.gitignore
+# if final change,.gitignore should include .gitignore 
 
 # Created by https://www.gitignore.io/api/jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=jupyternotebooks
