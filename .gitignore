@@ -1,6 +1,6 @@
 /dataset/*
 /param/*
-.gitingore
+.gitignore
 
 
 # Created by https://www.gitignore.io/api/jupyternotebooks
