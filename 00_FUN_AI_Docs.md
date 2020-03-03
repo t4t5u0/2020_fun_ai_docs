@@ -6,7 +6,7 @@ _paginate: false
 _color: white
 ---
 
-# FUN AI 第１回
+# FUN AI 第0回
 
 ## 新入生向けオリエンテーション
 
@@ -38,7 +38,6 @@ _color: white
 - #### FUN AI 代表
 
 - ### Twitter : i4mwh4ti4m
-
 
 ---
 
