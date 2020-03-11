@@ -4,17 +4,17 @@ README.md~
 ..gitignore.un~
 .vscode
 
-./Dataset/01/**
-./Dataset/02/**
-./Dataset/03/**
-./Dataset/04/**
-./Dataset/05/**
-./Dataset/06/**
-./Dataset/07/**
-./Dataset/08/**
-./Dataset/09/**
-./Dataset/10/**
-./param/**
+/Dataset/01/**
+/Dataset/02/**
+/Dataset/03/**
+/Dataset/04/**
+/Dataset/05/**
+/Dataset/06/**
+/Dataset/07/**
+/Dataset/08/**
+/Dataset/09/**
+/Dataset/10/**
+/param/**
 #.gitignore
 
 reated by https://www.gitignore.io/api/jupyternotebooks
