@@ -14,7 +14,7 @@ README.md~
 ./Dataset/08/*
 ./Dataset/09/*
 ./Dataset/10/*
-./param/*
+./param/**
 #.gitignore
 
 reated by https://www.gitignore.io/api/jupyternotebooks
