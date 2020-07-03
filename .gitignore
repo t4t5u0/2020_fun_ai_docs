@@ -5,8 +5,9 @@ README.md~
 .vscode
 
 
-/Dataset/[0,1][0-9]/**
+*/Dataset/**
 */param/**
+
 
 #.gitignore
 
