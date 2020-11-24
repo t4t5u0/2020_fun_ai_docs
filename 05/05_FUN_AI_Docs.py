@@ -60,7 +60,7 @@ beta1 = 0.5
 # GPUの個数. 0ならCPU
 ngpu = 1
 
-BFS
+
 time = datetime.now()
 param_path = f'./05/param/{time.year}{time.month:02}{time.day:02}{time.hour:02}{time.minute:02}'
 writer = SummaryWriter(param_path)
